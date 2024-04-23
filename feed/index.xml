@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Premier Printing Limited</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/premprintstatic/feed/" rel="self" type="application/rss+xml" />
+	<link>/premprintstatic/</link>
 	<description>Your Presentation Folder Specialist</description>
 	<lastBuildDate>Mon, 20 Jun 2022 13:24:06 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -26,7 +26,7 @@
 <image>
 	<url>https://premier-printing-limited-bucket.s3.ca-central-1.amazonaws.com/wp-content/uploads/2021/09/15164512/favicon.jpg</url>
 	<title>Premier Printing Limited</title>
-	<link>/</link>
+	<link>/premprintstatic/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

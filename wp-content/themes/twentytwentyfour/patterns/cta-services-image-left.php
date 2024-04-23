@@ -7,7 +7,7 @@
 		<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%">
 			<!-- wp:image {"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|duotone-1"}},"className":"is-style-rounded"} -->
 			<figure class="wp-block-image size-full is-style-rounded">
-				<img src="/wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/brandon/Local Sites/premier-printing-limited/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php:18_Stack trace:_#0 {main}_  thrown in <b>/Users/brandon/Local Sites/premier-printing-limited/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php</b> on line <b>18</b><br />"></figure>
+				<img src="/premprintstatic/wp-content/themes/twentytwentyfour/patterns/<br />_<b>Fatal error</b>:  Uncaught Error: Call to undefined function esc_url() in /Users/brandon/Local Sites/premier-printing-limited/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php:18_Stack trace:_#0 {main}_  thrown in <b>/Users/brandon/Local Sites/premier-printing-limited/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php</b> on line <b>18</b><br />"></figure>
 </div>
 </div>
 </div>
